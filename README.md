@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Annaliese Mathews</h1>
 <h3 align="center">Working in online higher education revealed my passion for learning, research, and creativity. I chose to pursue growth by pivoting my career to the technology field when I realized how these passions could be utilized daily by working in tech. I gained a fascination with software development while attending a Jumpstart class through Nashville Software School in October and November of 2022. Since then I have continued to dive deep into this fascination by continuing my education at Nashville Software School.</h3>
 
-- 🔭 My most recent project is [Stitch Minder](https://stitchminder.netlify.app/login/)
+- 🔭 My most recent project is Handmade Hangout [Front-end code](https://github.com/amathews043/Full-Stack-Capstone) [API code](https://github.com/amathews043/Full-Stack-Capstone-API)
 
 - 🌱 I’m currently learning **Python and Django**
 
