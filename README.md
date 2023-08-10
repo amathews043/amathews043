@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **mathewsannaliese@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAFf0miXOdU/msRGEzVnBkIy5kntrmCQGQ/view?utm_content=DAFf0miXOdU&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink](https://www.canva.com/design/DAFf0miXOdU/msRGEzVnBkIy5kntrmCQGQ/view?utm_content=DAFf0miXOdU&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+- 📄 [Know about my experiences](https://www.canva.com/design/DAFf0miXOdU/msRGEzVnBkIy5kntrmCQGQ/view?utm_content=DAFf0miXOdU&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
